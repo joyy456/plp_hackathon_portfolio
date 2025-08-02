@@ -49,7 +49,7 @@ A sleek and secure login page for a mental health platform that promotes self-wo
 
 I’d love to connect with potential collaborators, mentors, or developers!
 
-📧 Email: your-email@example.com  
+📧 Email: jwavinya406@gmail.com  
 💬 LinkedIn: (https://www.linkedin.com/in/joy-wavinya-8b2a01373/) 
 🌐 Portfolio Live: file:///C:/Users/Admin/Desktop/my%20portfolio/index.html
 
